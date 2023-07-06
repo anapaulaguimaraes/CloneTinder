@@ -42,7 +42,7 @@ Tecnologias utilizadas para desenvolver o projeto:
 
 
 
-![Tinder](C:\Users\anapa\Documents\Documentos Ana Paula\Todas Tech\Projetos\Clone Tinder\img\imagem projeto.jpeg)
+![Tinder](https://github.com/anapaulaguimaraes/CloneTinder/blob/anapaula/img/imagem%20projeto.jpeg?raw=true)
 
 
 
